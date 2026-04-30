@@ -24,3 +24,4 @@ Roles are intentionally clear to reduce ambiguity: **Project Managers** coordina
 | [Release and Deployment](octoacme-release-and-deployment.md) | Release types, pre-release checklist, deployment steps, and post-deploy verification |
 | [Retrospective and Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) | Retrospective format, action item tracking, and team improvement loops |
 | [Roles and Personas](octoacme-roles-and-personas.md) | Definitions, responsibilities, and expectations for each role on a delivery team |
+| [Cross-Functional Handoff Checklist](octoacme-cross-functional-handoff-checklist.md) | RACI matrix template, Definition of Ready/Done checklists, and phase handoff checklists for cross-role accountability |

@@ -17,7 +17,12 @@ Applies to all cross-functional projects that deliver product features, services
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
+- UX Designer: creates user flows, wireframes, and interface designs; validates implementation.
+- Business Analyst: translates business needs into structured requirements and documentation.
+- QA Automation Engineer: designs and maintains automated test suites; enforces quality gates.
+- DevOps Engineer: builds and operates CI/CD pipelines, environments, and observability tooling.
+- Customer Support: surfaces user feedback and ensures post-release support readiness.
+- Data Analyst: defines metrics, builds dashboards, and delivers product insights.
 - Stakeholders: provide inputs and approvals.
 
 ## Key Artifacts
@@ -26,7 +31,11 @@ Applies to all cross-functional projects that deliver product features, services
 - Sprint/Iteration Backlog
 - Acceptance Criteria & Definition of Done
 - Risk Register
+- RACI Responsibility Matrix
+- Cross-Functional Handoff Checklists
 - Retrospective notes and action items
+
+See [Cross-Functional Handoff Checklist](octoacme-cross-functional-handoff-checklist.md) for RACI template, Definition of Ready/Done, and phase handoff checklists.
 
 ## Lifecycle (high-level)
 1. Initiation: problem statement, stakeholders, high-level timeline.
